@@ -45,6 +45,20 @@ nav ul li a{
   text-decoration: none;
   color: black;
 }
+#page3 li a{
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
+#page3 li a:hover{
+  color: aliceblue;
+}
+
+#page3 table,th,td{
+    padding: 10px;
+    border: 1px solid #66FCF1;
+    border-collapse: collapse;
+}
 nav ul li a:hover{
   color: aliceblue;
 }
